@@ -1,0 +1,5 @@
+pyyaml
+jsonschema
+xmltodict
+PyQt5
+
